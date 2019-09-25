@@ -123,3 +123,26 @@ Slides and more details about this course can be found in my Github [SSQ](https:
   - Understand Content Cost Function, Style Cost Function, 1D and 3D Generalizations
   - [x] [Deep Learning & Art: Neural Style Transfer](https://github.com/SSQ/Coursera-Ng-Convolutional-Neural-Networks/tree/master/Week%204%20PA%201%20Art%20generation%20with%20Neural%20Style%20Transfer)
   - [x] [Face Recognition for the Happy House](https://github.com/SSQ/Coursera-Ng-Convolutional-Neural-Networks/tree/master/Week%204%20PA%202%20Face%20Recognition%20for%20the%20Happy%20House)
+  
+  
+  ## 5. Sequence Models
+Course can be found in Coursera
+
+Quiz and answers are collected for quick search in my blog SSQ
+
+[Github](https://github.com/SSQ/Coursera-Ng-Sequence-Models)
+Week 1 Recurrent Neural Networks
+
+Learn about recurrent neural networks, including LSTMs, GRUs and Bidirectional RNNs.
+ Building a recurrent neural network - step by step
+ Dinosaur Island - Character-Level Language Modeling
+ Jazz improvisation with LSTM
+Week 2 Natural Language Processing & Word Embeddings
+
+Word Representation, Word embeddings, Embedding matrix
+Word2Vec & GloVe
+Sentiment Classification
+Debiasing word embeddings
+ Operations on word vectors - Debiasing
+ Emojify
+Week 3 Sequence models & Attention mechanism
